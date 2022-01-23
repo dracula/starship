@@ -15,6 +15,7 @@ If you're a [Nix Home Manager](https://github.com/nix-community/home-manager) us
 This setup was tested using zsh, change line 3 below if you're using a shell other than zsh.
 
 ```nix
+{
 programs.starship = {
   enable = true;
   enableZshIntegration = true;
@@ -34,4 +35,5 @@ programs.starship = {
     };
   };
 };
+}
 ```
