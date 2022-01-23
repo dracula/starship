@@ -1,20 +1,29 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Starship](https://starship.rs)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Starship](https://starship.rs).
 
-![Screenshot](./screenshot.png)
+### Local prompt style
+![Screenshot](./screenshot-local.png)
+
+### SSH prompt style
+![Screenshot](./screenshot-ssh.png)
+
+> Screenshot setup is:
+> - iTerm2
+> - JetBrainsMono Nerd Font
+> - zsh
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/starship](https://draculatheme.com/starship).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/starship/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
---- |
-[Zeno Rocha](https://github.com/zenorocha) |
+| [![Grant Bevis](https://github.com/b3vis.png?size=100)](https://github.com/b3vis) |
+|-----------------------------------------------------------------------------------|
+| [Grant Bevis](https://github.com/b3vis)                                           |
 
 ## License
 
