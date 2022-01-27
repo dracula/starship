@@ -2,16 +2,7 @@
 
 > A dark theme for [Starship](https://starship.rs).
 
-### Local prompt style
-![Screenshot](./screenshot-local.png)
-
-### SSH prompt style
-![Screenshot](./screenshot-ssh.png)
-
-> Screenshot setup is:
-> - iTerm2
-> - JetBrainsMono Nerd Font
-> - zsh
+![Screenshot](./screenshot.png)
 
 ## Install
 
