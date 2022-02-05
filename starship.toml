@@ -1,3 +1,6 @@
+[aws]
+style = "bold #ffb86c"
+
 [character]
 error_symbol = "[λ](bold #ff5555)"
 success_symbol = "[λ](bold #f8f8f2)"
