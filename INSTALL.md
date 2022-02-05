@@ -20,6 +20,7 @@ programs.starship = {
   enable = true;
   enableZshIntegration = true;
   settings = {
+    aws.style = "bold #ffb86c";
     cmd_duration.style = "bold #f1fa8c";
     directory.style = "bold #50fa7b";
     hostname.style = "bold #ff5555";
