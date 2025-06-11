@@ -1,3 +1,5 @@
+palette = "dracula"
+
 [aws]
 style = "bold orange"
 
@@ -23,9 +25,6 @@ style = "bold purple"
 [username]
 format = "[$user]($style) on "
 style_user = "bold cyan"
-
-# Use the color palette
-palette = "dracula"
 
 # Define Dracula color palette
 [palettes.dracula]
